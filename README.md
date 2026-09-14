@@ -1,5 +1,8 @@
-# Dreamweave
+# Dreamweave — finished kit for Dreamweaver
 
-Live: https://joerussell22.github.io/dreamweave/
+Get bootstrapped. Get your seat on Dreamweaver.
 
-Bootstrap 5 studio site for Adobe Dreamweaver. No build step.
+Live: https://joerussell22.github.io/
+
+Includes MM (motion machine), contact mailer, Dreamweaver .dwt template.
+Council later. Lab front door later.

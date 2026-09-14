@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://joerussell22.github.io/dreamweave/sitemap.xml
+Sitemap: https://joerussell22.github.io/sitemap.xml
