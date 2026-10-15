@@ -2,13 +2,11 @@
 Status: signed off (2026-10-10). Cuts applied as decisions. Lab front door still gated on Joe + Grok together.
 
 ## What shipped
-- Multi-page Dreamweaver site with Templates/main.dwt (MM in template nav)
+- Multi-page Dreamweaver site with Templates/main.dwt
 - MM page: motion machine, six rules, reduced-motion safe
-- Finishing (kit): favicon (index + mm), back-to-top, 404.html, sitemap.xml + robots.txt
-- Contact: Formspree on kit and live (`https://formspree.io/f/xnpqewqr`)
-- PHP mailer at mail/send.php as optional self-hosted path (set $to before live)
-- Live site (joerussell22.github.io): photos, favicon on all pages, og: tags, sitemap.xml, robots.txt, 404.html
-- Not yet in kit: case photos (img/work-*.jpg); kit Pages not enabled
+- Finishing: favicon, lazy images, back-to-top, harbor hero fix, 404 htaccess
+- PHP mailer at mail/send.php (set $to before live)
+- Live site (joerussell22.github.io) has photos + Formspree contact
 
 ## Council decisions (signed)
 1. **MM nav slot**: Keep as top-level. It is a distinct capability with its own page and rules. Does not belong under Craft.
